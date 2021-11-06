@@ -27,7 +27,7 @@ const NavBar = props => {
     <div>
       <Navbar color="light" light expand="md" fixed="top">
         <Link to="/" className="navbar-brand">
-          <span>e</span>-shop
+          <span>Farhan</span>-Designer
         </Link>
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>

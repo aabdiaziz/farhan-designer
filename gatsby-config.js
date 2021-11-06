@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `e-shop`,
+    title: `Farhan-Designer`,
     description: `Simple e-commerce website in react.`,
     author: `@james-muriithi`,
     siteUrl: "https://my-online-shop.netlify.app/",
@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `e-shop`,
+        name: `Farhan-shop`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#000000`,
